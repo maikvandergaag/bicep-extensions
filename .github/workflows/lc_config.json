@@ -1,0 +1,4 @@
+{
+  "aliveStatusCodes": [429, 200],
+  "ignorePatterns": []
+}
