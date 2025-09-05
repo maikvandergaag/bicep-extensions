@@ -1,0 +1,35 @@
+name: Link Checker
+
+on:
+  push:
+    branches:
+    - main
+  schedule:
+  - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  markdown-link-checker:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: markdown-link-check
+      id: markdownlinkcheck
+      continue-on-error: true
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        config-file: '.github/workflows/mlc_config.json'
+    - name: Sleep for 3hrs
+      if: ${{ steps.markdownlinkcheck.outcome == 'failure' && steps.markdownlinkcheck.conclusion == 'success' }}
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10800s
+    - name: markdown-link-check-retry
+      if: ${{ steps.markdownlinkcheck.outcome == 'failure' && steps.markdownlinkcheck.conclusion == 'success' }}
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        config-file: '.github/workflows/mlc_config.json'
