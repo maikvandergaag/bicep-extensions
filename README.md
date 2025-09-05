@@ -6,14 +6,13 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 
 | Name | Repo | Maintainer | Description |
 |---|---|---|---|
-| Http Extension | [bicep-ext-http](https://github.com/maikvandergaag/bicep-ext-http) | @maikvandergaag | C# Http Extension (Get/Post/Put/Patch/Delete) |
-| Databricks Extension | [bicep-ext-databricks](https://github.com/Gijsreyn/bicep-ext-databricks) | @gijsreyn | C# Databricks extension |
-| Local Extension | [bicep-ext-local](https://github.com/anthony-c-martin/bicep-ext-local) | @anthony-c-martin | Extenstion for local execution |
-| Kubernetes Extension | [bicep-ext-kubernetes](https://github.com/anthony-c-martin/bicep-ext-kubernetes) | @anthony-c-martin | Extension for Kubernetes |
-| GitHub Extension | [bicep-ext-github](https://github.com/anthony-c-martin/bicep-ext-github) | @anthony-c-martin | Extension for Github |
-| Key Vault Extension | [bicep-ext-keyvault](https://github.com/anthony-c-martin/bicep-ext-keyvault) | @anthony-c-martin | Extension for the dataplane of Azure Key Vault|
 | Azure DevOps Extension | [azure-devops-bicep-local-deploy](https://github.com/johnlokerse/azure-devops-bicep-local-deploy) | @johnlokerse | Extension for Azure DevOps resources |
-
+| Databricks Extension | [bicep-ext-databricks](https://github.com/Gijsreyn/bicep-ext-databricks) | @gijsreyn | C# Databricks extension |
+| GitHub Extension | [bicep-ext-github](https://github.com/anthony-c-martin/bicep-ext-github) | @anthony-c-martin | Extension for Github |
+| Http Extension | [bicep-ext-http](https://github.com/maikvandergaag/bicep-ext-http) | @maikvandergaag | C# Http Extension (Get/Post/Put/Patch/Delete) |
+| Key Vault Extension | [bicep-ext-keyvault](https://github.com/anthony-c-martin/bicep-ext-keyvault) | @anthony-c-martin | Extension for the dataplane of Azure Key Vault|
+| Kubernetes Extension | [bicep-ext-kubernetes](https://github.com/anthony-c-martin/bicep-ext-kubernetes) | @anthony-c-martin | Extension for Kubernetes |
+| Local Extension | [bicep-ext-local](https://github.com/anthony-c-martin/bicep-ext-local) | @anthony-c-martin | Extenstion for local execution |
 
 ## Information
 
