@@ -1,5 +1,3 @@
-# Bicep Extensions
-
 Welcome to a  list of useful Bicep extensions! This repository aims to showcase extensions for Bicep.
 
 ## Extensions
