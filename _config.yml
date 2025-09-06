@@ -1,28 +1,4 @@
 theme: minima
 minima:
   skin: dark
-locale: "en-US"
 title: "Bicep Extensions"
-title_separator: "-"
-subtitle: "A list of Bicep Extensions"
-name: "Maik van der Gaag"
-description: ""
-repository: "maikvandergaag/bicep-extensions" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-breadcrumbs: false
-future: false
-words_per_minute: 150
-atom_feed:
-  path: # blank (default) uses feed.xml
-search: true # true, false (default)
-search_full_content: true # true, false (default)
-search_provider: "lunr"
-lunr:
-  search_within_pages: true
-# Site Author
-author:
-  name: "Community - Maintained by @maikvandergaag"
-  bio: "I am a **Microsoft MVP**, a **speaker**, and the **father** of three."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/maikvandergaag"
