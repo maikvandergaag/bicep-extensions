@@ -1,13 +1,6 @@
-remote_theme: jekyll/minima@2.5.2
-plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-redirect-from
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: minima
+minima:
+  skin: dark
 locale: "en-US"
 title: "Bicep Extensions"
 title_separator: "-"
