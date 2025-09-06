@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+remote_theme: jekyll/minima@2.5.2
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
