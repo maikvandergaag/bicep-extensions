@@ -2,7 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-them
 title: Bicep Extensions
-description: A list and information of Bicep Extensions - by @maikvandergaag
-github:
-  is_user_page : true
-  owner_url : https://github.com/maikvandergaag
+description: A list and information of Bicep Extensions
