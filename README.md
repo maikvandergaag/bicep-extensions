@@ -11,6 +11,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | Key Vault Extension | [bicep-ext-keyvault](https://github.com/anthony-c-martin/bicep-ext-keyvault) | @anthony-c-martin | Extension for the dataplane of Azure Key Vault|
 | Kubernetes Extension | [bicep-ext-kubernetes](https://github.com/anthony-c-martin/bicep-ext-kubernetes) | @anthony-c-martin | Extension for Kubernetes |
 | Local Extension | [bicep-ext-local](https://github.com/anthony-c-martin/bicep-ext-local) | @anthony-c-martin | Extenstion for local execution |
+| Password Generator Extension| [bicep-ext-PassWordGenerator](https://github.com/mimachniak/bicep-ext-PassWordGenerator) | @mimachniak | Extension to generete complex password and pass to resources  |
 
 ## Information
 
