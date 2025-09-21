@@ -5,6 +5,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | Name | Repo | Maintainer | Description |
 |---|---|---|---|
 | Azure DevOps Extension | [azure-devops-bicep-local-deploy](https://github.com/johnlokerse/azure-devops-bicep-local-deploy) | @johnlokerse | Extension for Azure DevOps resources |
+| CloudFlare Extension | [bicep-ext-cloudflare](https://github.com/riosengineer/cloudflare-bicep-deploy) | @riosengineer | Extension for CloudFlare DNS + more
 | Databricks Extension | [bicep-ext-databricks](https://github.com/Gijsreyn/bicep-ext-databricks) | @gijsreyn | C# Databricks extension |
 | GitHub Extension | [bicep-ext-github](https://github.com/anthony-c-martin/bicep-ext-github) | @anthony-c-martin | Extension for Github |
 | Http Extension | [bicep-ext-http](https://github.com/maikvandergaag/bicep-ext-http) | @maikvandergaag | C# Http Extension (Get/Post/Put/Patch/Delete) |
