@@ -26,6 +26,7 @@ Check out the below documentation to get started with Bicep Extensions:
 * [Creating a Local Extension with .NET][10]
 * [Using Local Deploy (Experimental!)][11]
 * [Power Up Your Infrastructure with Bicep Extensions][12]
+* [https://msftplayground.com/2025/09/bicep-custom-extension][18]
 
 ## Contribute Your Extension
 
@@ -50,3 +51,4 @@ Have an extension that you think should be included? Feel free to submit a pull 
 [15]: https://github.com/anthony-c-martin
 [16]: https://github.com/maikvandergaag
 [17]: https://github.com/mimachniak
+[18]: https://msftplayground.com/2025/09/bicep-custom-extension
