@@ -26,7 +26,7 @@ Check out the below documentation to get started with Bicep Extensions:
 * [Creating a Local Extension with .NET][10]
 * [Using Local Deploy (Experimental!)][11]
 * [Power Up Your Infrastructure with Bicep Extensions][12]
-* [https://msftplayground.com/2025/09/bicep-custom-extension][18]
+* [Build a Custom Extension for Bicep][18]
 
 ## Contribute Your Extension
 
