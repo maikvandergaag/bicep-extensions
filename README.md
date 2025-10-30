@@ -19,6 +19,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | Name                             | Repo                     | Maintainer     | Description                                                                 | Package                 |
 | -------------------------------- | ------------------------ | -------------- | --------------------------------------------------------------------------- | ----------------------- |
 | Bicep Local Deploy Doc Generator | [bicep-local-docgen][08] | [gijsreyn][14] | Library for Bicep annotations and documentation generator for Bicep models. | [Bicep.LocalDeploy][09] |
+| dotnet Bicep Extension template | [bicep-extension-template][21] | [maikvandergaag][16] | Library that contains a Bicep extension template |[Bicep.Extension.Templates][22] | 
 
 ## Information
 
@@ -55,3 +56,5 @@ Have an extension that you think should be included? Feel free to submit a pull 
 [18]: https://msftplayground.com/2025/09/bicep-custom-extension
 [19]: https://github.com/riosengineer/cloudflare-bicep-deploy
 [20]: https://github.com/riosengineer
+[21]: https://github.com/maikvandergaag/bicep-extension-template
+[22]: https://www.nuget.org/packages/Bicep.Extension.Templates
