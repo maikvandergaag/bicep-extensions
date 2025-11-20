@@ -5,6 +5,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | Name                         | Repo                                  | Maintainer             | Description                                                  |
 | ---------------------------- | ------------------------------------- | ---------------------- | ------------------------------------------------------------ |
 | Azure DevOps Extension       | [azure-devops-bicep-local-deploy][00] | [johnlokerse][13]      | Extension for Azure DevOps resources                         |
+| Azure Entitlement Management Bicep Local Extension | [entitlement-management-bicep-local-deploy][23]          | [duanany][24]          | A custom Bicep Local Extension for managing Azure Entitlement Management and Privileged Identity Management (PIM) resources via Infrastructure-as-Code. |
 | CloudFlare Extension | [bicep-ext-cloudflare][19] | [riosengineer][20] | Extension for CloudFlare DNS + more |
 | Databricks Extension         | [bicep-ext-databricks][01]            | [gijsreyn][14]         | Extension for creating Databricks resources and objects      |
 | GitHub Extension             | [bicep-ext-github][02]                | [anthony-c-martin][15] | Extension for Github                                         |
@@ -13,7 +14,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | Kubernetes Extension         | [bicep-ext-kubernetes][05]            | [anthony-c-martin][15] | Extension for Kubernetes                                     |
 | Local Extension              | [bicep-ext-local][06]                 | [anthony-c-martin][15] | Extension for local execution                                |
 | Password Generator Extension | [bicep-ext-PassWordGenerator][07]     | [mimachniak][17]       | Extension to generate complex password and pass to resources |
-| Azure Entitlement Management Bicep Local Extension | [entitlement-management-bicep-local-deploy][23]          | [duanany][24]          | A custom Bicep Local Extension for managing Azure Entitlement Management and Privileged Identity Management (PIM) resources via Infrastructure-as-Code. |
+
 
 ## Extension helpers
 
