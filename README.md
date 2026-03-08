@@ -7,6 +7,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | Azure DevOps Extension       | [azure-devops-bicep-local-deploy][00] | [johnlokerse][13]      | Extension for Azure DevOps resources                         |
 | CloudFlare Extension | [bicep-ext-cloudflare][19] | [riosengineer][20] | Extension for CloudFlare DNS + more |
 | Databricks Extension         | [bicep-ext-databricks][01]            | [gijsreyn][14]         | Extension for creating Databricks resources and objects      |
+| DSC Extension | [bicep-types-dsc][21] | [andyleeJordan][22] | DSC extension for Bicep |
 | GitHub Extension             | [bicep-ext-github][02]                | [anthony-c-martin][15] | Extension for Github                                         |
 | Http Extension               | [bicep-ext-http][03]                  | [maikvandergaag][16]   | C# Http Extension (Get/Post/Put/Patch/Delete)                |
 | Key Vault Extension          | [bicep-ext-keyvault][04]              | [anthony-c-martin][15] | Extension for the dataplane of Azure Key Vault               |
@@ -55,3 +56,5 @@ Have an extension that you think should be included? Feel free to submit a pull 
 [18]: https://msftplayground.com/2025/09/bicep-custom-extension
 [19]: https://github.com/riosengineer/cloudflare-bicep-deploy
 [20]: https://github.com/riosengineer
+[21]: https://github.com/microsoft/bicep-types-dsc
+[22]: https://github.com/andyleejordan
