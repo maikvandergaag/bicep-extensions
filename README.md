@@ -9,6 +9,7 @@ Welcome to a  list of useful Bicep extensions! This repository aims to showcase 
 | CloudFlare Extension | [bicep-ext-cloudflare][19] | [riosengineer][20] | Extension for CloudFlare DNS + more |
 | Databricks Extension         | [bicep-ext-databricks][01]            | [gijsreyn][14]         | Extension for creating Databricks resources and objects      |
 | DSC Extension | [bicep-types-dsc][25] | [andyleeJordan][26] | DSC extension for Bicep |
+| Fabrix Extension | [bicep-fabric-extension][27]| [awood-ops][28]|Bicep extension for Fabric |
 | GitHub Extension             | [bicep-ext-github][02]                | [anthony-c-martin][15] | Extension for Github                                         |
 | Http Extension               | [bicep-ext-http][03]                  | [maikvandergaag][16]   | C# Http Extension (Get/Post/Put/Patch/Delete)                |
 | Key Vault Extension          | [bicep-ext-keyvault][04]              | [anthony-c-martin][15] | Extension for the dataplane of Azure Key Vault               |
@@ -65,3 +66,5 @@ Have an extension that you think should be included? Feel free to submit a pull 
 [24]: https://github.com/duanany
 [25]: https://github.com/microsoft/bicep-types-dsc
 [26]: https://github.com/andyleejordan
+[27]: https://github.com/awood-ops/bicep-fabric-extension
+[28]: https://github.com/awood-ops
